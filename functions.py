@@ -12,6 +12,7 @@ from itertools import combinations, product
 from collections import Counter
 from dateutil.relativedelta import relativedelta
 import dataframe_image as dfi
+import tensorflow as tf
 
 ##############################
 # Core Scientific & Numeric Libraries
